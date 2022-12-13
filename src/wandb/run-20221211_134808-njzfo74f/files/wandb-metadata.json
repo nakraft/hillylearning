@@ -1,0 +1,33 @@
+{
+    "os": "macOS-12.2.1-arm64-arm-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-12-11T18:48:14.032556",
+    "startedAt": "2022-12-11T18:48:08.121792",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:nakraft/hillylearning.git",
+        "commit": "ae7f15af19b7da0c082bb4fe0afa544ede5203d5"
+    },
+    "email": "nakraft@ncsu.edu",
+    "root": "/Users/nakraft/Documents/Curriculum Learning/hillylearning",
+    "host": "LASs-MacBook-Pro-4.local",
+    "username": "nakraft",
+    "executable": "/Users/nakraft/venv-metal/bin/python3",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "total": 926.3517189025879,
+        "used": 23.570575714111328
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
